@@ -1,0 +1,6 @@
+ultralytics==8.1.38
+opencv-python-headless
+matplotlib
+numpy
+torch
+git+https://github.com/facebookresearch/segment-anything.git
